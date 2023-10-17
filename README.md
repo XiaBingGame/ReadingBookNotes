@@ -14,6 +14,7 @@
 * [搞定-无压工作的艺术](content/学习/搞定无压工作的艺术/README.md)
 * [写作的逻辑(从清晰表达到高效沟通)](content/学习/写作的逻辑/README.md)
 * [高效能人士的七个习惯](content/学习/高效能人士的七个习惯/README.md)
+* [奇特的一生](content/学习/奇特的一生/README.md)
 
 ### 杂文
 * [暗时间](content/杂文/暗时间/README.md)
